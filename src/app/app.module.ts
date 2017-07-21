@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { CalendarModule } from 'fullcalendar-ag4';
+import {CalendarModule} from 'fullcalendar-ag4';
 
 @NgModule({
   declarations: [
@@ -10,7 +10,7 @@ import { CalendarModule } from 'fullcalendar-ag4';
   ],
   imports: [
     BrowserModule,
-    CalendarModule
+    CalendarModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
