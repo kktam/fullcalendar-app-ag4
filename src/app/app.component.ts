@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import 'fullcalendar';
 
 @Component({
   selector: 'app-root',
