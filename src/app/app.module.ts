@@ -10,7 +10,7 @@ import { CalendarModule } from 'fullcalendar-ag4';
   ],
   imports: [
     BrowserModule,
-    CalendarModule
+    CalendarModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
