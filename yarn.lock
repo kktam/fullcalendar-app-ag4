@@ -1847,15 +1847,12 @@ fstream@^1.0.0, fstream@^1.0.10, fstream@^1.0.2:
     mkdirp ">=0.5 0"
     rimraf "2"
 
-fullcalendar-ag4@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/fullcalendar-ag4/-/fullcalendar-ag4-0.1.1.tgz#b2ec46b7900b7947b4492f37572821d85f83c667"
-  dependencies:
-    "@types/fullcalendar" "^2.7.44"
-    "@types/jquery" "3.2.5"
-    fullcalendar "^3.4.0"
-    jasmine "^2.6.0"
-    jquery "^3.2.1"
+fullcalendar-ag4@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/fullcalendar-ag4/-/fullcalendar-ag4-0.1.2.tgz#bb803510b4963edc78df64b076627dbb175014ea"
+
+"fullcalendar-ag4@file:/Users/benevideschissanga/fullcalendar-ag4/dist":
+  version "0.1.2"
 
 fullcalendar@^3.4.0:
   version "3.4.0"
