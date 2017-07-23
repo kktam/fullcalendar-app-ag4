@@ -1,6 +1,6 @@
-# FullcalendarAppAg4
+# FullcalendarAppAg4 
 
-This is a demo application for fullcalendar-ag4, a Angular 4 re-useable component built for FullCalendar.io wth generator-angular2-library
+This is a demo application for fullcalendar-ag4, a Angular 4 re-useable component built for FullCalendar.io wth generator-angular2-library [http://fullcalendar-app-ag4.s3-us-west-2.amazonaws.com/index.html](demo)
 
 ![Screen Shot](https://user-images.githubusercontent.com/2776485/28501080-168aba7c-6f89-11e7-9e69-a669f4f12b91.png)
 
